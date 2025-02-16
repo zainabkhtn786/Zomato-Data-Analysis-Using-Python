@@ -22,7 +22,7 @@ b. What types of restaurants are most preferred by the public?
 c. What is the preferred price range for couples dining out?
 
 ## 4. Data Preparation
-Step 1: Import Required Libraries
+#### Step 1: Import Required Libraries
 ``` python
 
 import pandas as pd
@@ -31,13 +31,14 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 ```
 
-Step 2: Load the Dataset
+#### Step 2: Load the Dataset
 ``` python
 
 df = pd.read_csv("Zomato-data.csv")
-print(df.head())   ```
+print(df.head())
+ ```
 
-Step 3: Data Cleaning
+#### Step 3: Data Cleaning
 Convert the rate column to a float by removing the denominator:
 
 ``` python
@@ -54,7 +55,8 @@ df['rate'] = df['rate'].apply(clean_rate)
 
 ``` python
 
-print(df.info())```
+print(df.info())
+```
 
 2️⃣ Restaurant Type Distribution
 
