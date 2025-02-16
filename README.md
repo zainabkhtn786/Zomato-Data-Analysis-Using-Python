@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/e4946966-2580-49e4-a0f3-0473648dd2e4)# Zomato Data Analysis Using Python
+# Zomato Data Analysis Using Python
+![Uploading image.png…]()
+
 
 ## 1. Overview
 This project analyzes a Zomato dataset using Python to gain insights into restaurant trends, customer preferences, and pricing strategies. The analysis includes data cleaning, visualization, and answering key business questions.
@@ -135,7 +137,10 @@ plt.show()
 
 ## Conclusion
 a. Most restaurants do not accept online orders.
+
 b. Dining restaurants are the most common category.
+
 c. The most popular price range for couples is around ₹300.
+
 d. Online orders tend to receive better ratings than offline orders.
 
