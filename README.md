@@ -1,4 +1,4 @@
-# Zomato Data Analysis Using Python
+![image](https://github.com/user-attachments/assets/e4946966-2580-49e4-a0f3-0473648dd2e4)# Zomato Data Analysis Using Python
 
 ## 1. Overview
 This project analyzes a Zomato dataset using Python to gain insights into restaurant trends, customer preferences, and pricing strategies. The analysis includes data cleaning, visualization, and answering key business questions.
@@ -84,15 +84,15 @@ print("Most voted restaurant:", top_restaurant.values[0])
 
 
 #### 4️⃣ Online vs Offline Orders
-`` python
+``` python
 
 sns.countplot(x=df['online_order'])
 plt.show()
 ```
 🔹 Insight: Most restaurants do not accept online orders.
 
-
 #### 5️⃣ Rating Distribution
+
 ``` python
 
 plt.hist(df['rate'], bins=5)
