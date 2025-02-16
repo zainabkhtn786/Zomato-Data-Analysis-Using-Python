@@ -135,7 +135,7 @@ plt.show()
 🔹 Insight: Dining restaurants prefer offline orders, while cafes receive more online orders.
 
 
-## Conclusion
+## 6 Conclusion
 a. Most restaurants do not accept online orders.
 
 b. Dining restaurants are the most common category.
