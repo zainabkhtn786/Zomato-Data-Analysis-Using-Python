@@ -1,5 +1,5 @@
 # Zomato Data Analysis Using Python
-![Uploading image.png…]()
+![work_banner_vyEql_Zomato](https://github.com/user-attachments/assets/d95ca8d6-ff37-457a-9c4d-b070f98135a4)
 
 
 ## 1. Overview
